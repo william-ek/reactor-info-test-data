@@ -1,0 +1,121 @@
+[
+    {
+        "id": "f1c5cf81-1e5e-4814-bc96-0a7aaee1f8d0",
+        "version": 0,
+		"type":"fission",
+        "manufacturer": "General Electric",
+        "serialNumber": "S6G-26670",
+        "description": "S6G naval reactor used by the United States Navy to provide electricity generation and propulsion on Los Angeles-class attack submarines",
+        "facilityCode": "SSN-717",
+        "locationDescription": "Olympia - Los Angeles class attack submarine, Puget Sound Naval Shipyard, 1400 Farragut Ave, Bremerton, WA 98314"
+    },
+    {
+        "id": "08c0c4fa-018b-4a9a-b34d-2d20be89cc59",
+        "version": 0,
+		"type":"fission",
+        "manufacturer": "General Electric",
+        "serialNumber": "S6G-26676",
+        "description": "S6G naval reactor used by the United States Navy to provide electricity generation and propulsion on Los Angeles-class attack submarines",
+        "facilityCode": "SSN-719",
+        "locationDescription": "Providence - Los Angeles class attack submarine, Naval Submarine Base New London, 1 Crystal Lake Rd, Groton, CT 06340"
+    },
+    {
+        "id": "358ae3e7-759e-4264-b346-477bb9040460",
+        "version": 0,
+		"type":"fission",
+        "manufacturer": "General Electric",
+        "serialNumber": "S6G-26683",
+        "description": "S6G naval reactor used by the United States Navy to provide electricity generation and propulsion on Los Angeles-class attack submarines",
+        "facilityCode": "SSN-721",
+        "locationDescription": "Chicago - Los Angeles class attack submarine, Naval Station Pearl Harbor, Joint Base Pearl Harbor-Hickam, HI 96860"
+    },
+    {
+        "id": "cfaccbe6-690c-4946-8c47-0ba21125df5c",
+        "version": 0,
+		"type":"fission",
+        "manufacturer": "General Electric",
+        "serialNumber": "S6G-26685",
+        "description": "S6G naval reactor used by the United States Navy to provide electricity generation and propulsion on Los Angeles-class attack submarines",
+        "facilityCode": "SSN-722",
+        "locationDescription": "Key West - Los Angeles class attack submarine, Polaris Point Naval Base, Apra Harbor, Guam"
+    },
+    {
+        "id": "9d84c80d-5498-4980-ac65-9f6c3eaf43fa",
+        "version": 0,
+		"type":"fission",
+        "manufacturer": "General Electric",
+        "serialNumber": "S6G-26687",
+        "description": "S6G naval reactor used by the United States Navy to provide electricity generation and propulsion on Los Angeles-class attack submarines",
+        "facilityCode": "SSN-723",
+        "locationDescription": "Oklahoma City - Los Angeles class attack submarine, Polaris Point Naval Base, Apra Harbor, Guam"
+    },
+    {
+        "id": "2d020ae2-f951-42e0-aa1a-73c58cd8c30d",
+        "version": 0,
+		"type":"fission",
+        "manufacturer": "General Electric",
+        "serialNumber": "S6G-26691",
+        "description": "S6G naval reactor used by the United States Navy to provide electricity generation and propulsion on Los Angeles-class attack submarines",
+        "facilityCode": "SSN-725",
+        "locationDescription": "Helena - Los Angeles class attack submarine, Norfolk Naval Shipyard, Portsmouth, VA 23709"
+    },
+    {
+        "id": "9130ae51-0e62-4830-a219-9a333ad88463",
+        "version": 0,
+		"type":"fission",
+        "manufacturer": "General Electric",
+        "serialNumber": "S6G-26692",
+        "description": "S6G naval reactor used by the United States Navy to provide electricity generation and propulsion on Los Angeles-class attack submarines",
+        "facilityCode": "SSN-750",
+        "locationDescription": "Newport News - Los Angeles class attack submarine, Norfolk Naval Shipyard, Portsmouth, VA 23709"
+    },
+    {
+        "id": "6b53faa9-048c-4bde-bd6d-798f0fa701f5",
+        "version": 0,
+		"type":"fission",
+        "manufacturer": "General Electric",
+        "serialNumber": "S6G-26711",
+        "description": "S6G naval reactor used by the United States Navy to provide electricity generation and propulsion on Los Angeles-class attack submarines",
+        "facilityCode": "SSN-751",
+        "locationDescription": "San Juan - Los Angeles class attack submarine, Naval Submarine Base New London, 1 Crystal Lake Rd, Groton, CT 06340"
+    },
+	{
+        "id": "65ba9ae9-7707-4800-bd3c-5ff15109ff4d",
+        "version": 0,
+        "manufacturer": "General Electric",
+        "serialNumber": "S6G-26713",
+        "description": "S6G naval reactor used by the United States Navy to provide electricity generation and propulsion on Los Angeles-class attack submarines",
+        "facilityCode": "SSN-752",
+        "locationDescription": "Pasadena - Los Angeles class attack submarine, Los Angeles class attack submarine, Norfolk Naval Shipyard, Portsmouth, VA 23709"
+    },
+    {
+        "id": "2f246795-b4ff-4606-bb1d-101c4e25e27e",
+        "version": 0,
+		"type":"fusion",
+        "manufacturer": "Global Dynamics",
+        "serialNumber": "GD-005",
+        "description": "Portable fusion reactor for small to medium businesses",
+        "facilityCode": "EurekaCA",
+        "locationDescription": "Cafe Diem - Eureka, CA 95500"
+    },
+    {
+        "id": "d173460a-cc38-4bbe-8186-b3891392c7bd",
+        "version": 0,
+		"type":"anti-matter",
+        "manufacturer": "Star Fleet",
+        "serialNumber": "SFC-26008",
+        "description": "Heavy duty anti matter reactor for star ships - dilithium crystal fuel",
+        "facilityCode": "NCC-1701",
+        "locationDescription": "Star Fleet Command, Titan Center"
+    },
+    {
+        "id": "24b2a220-2615-48c0-aa52-73ec47842a92",
+        "version": 0,
+        "manufacturer": "Arkellians",
+        "serialNumber": "%^^&^$",
+        "description": "The galaxy is the largest source of subatomic energy in the universe",
+        "facilityCode": "n/a",
+        "locationDescription": "Orion's belt"
+    }
+
+]
